@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>0145 - Anno Domini M. CCC. XVII. die veneris post festum omnium Sanctorum additiones factae per dominum Eliam.</title>
+        <author>Anonymous</author>
+        <editor>Rowan</editor>
+        <!-- 
+         Record ID: 0145
+          Date: 1317
+          Location: Autun
+          Source: Martene, Thesaurus, IV, cols. 495-98
+          
+          Transcribed by: Different Hand Ltd
+          Date Started: 19 Dec 2016
+          Date Finished: 1 Feb 2017
+          Reviewed RWD: 4 Feb 2017
+          Problems or Queries:
+          
+          Notes:
+          [1] Ed "pertubare"?
+          [2] Gap marked with ". . . .".
+          
+        -->
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>0145 - Anno Domini M. CCC. XVII. die veneris post festum omnium Sanctorum additiones factae per dominum Eliam.</title>
+          <date when="2014-04-14">April 04, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T4" n="thesIV1717">Martene, Thesaurus, IV, cols. 495-98</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-04-14" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#T4" n="248"/>
+        <cb ed="#T4" n="a"/> <!-- col 495 -->
+      </div>
+    </front>
+    <body>
+      <div xml:id="cl-0145-1">
+        <head xml:id="cl-0145-1-Hd1e100">Anno Domini M. CCC. XVII. die veneris post festum omnium Sanctorum additiones factae per dominum Eliam.</head>
+        <p xml:id="cl-0145-1-d1e103">
+          Anno Domini M. CCC. XVII. die veneris post festum omnium Sanctorum additiones factae per dominum Eliam.
+        </p>
+        <p xml:id="cl-0145-1-d1e106">
+          (1) STatuimus, volumus et praecipimus quod si quis clericus vel presbyter, vel alia persona ecclesiastica, cujuscumque conditionis aut status existat, dicat gratias pro comestione, quod ipse cum gratiis dicat istum psalmum De profundis et istam orationem Fidelium Deus omnium. 
+        </p>
+        <p xml:id="cl-0145-1-d1e109">
+          (2) Item, districte et sub poena excommunicationis inhibemus omnibus et singulis personis, cujuscumque conditionis aut status existant, et in nostra dioecesi AEduensi constitutos monemus una monitione peremtoria pro omnibus, ut ipsi aut aliquis ipsorum consocios seu procuratores venientes aut venire volentes ad nostram curiam AEduensem molestare non praesumant, nec etiam jura nostrae curiae audeant impedire in aliquo, seu et perturbare: [1] quod si secus attentaverint, excommunicationi se noverint subjacere. 
+        </p>
+        <p xml:id="cl-0145-1-d1e112">
+          (3) Item, cum sacris canonibus caveatur expresse, quod clerici arma portantes excommunicentur, quorumdam clericorum violentiae perversae temeritatis audacia eo processit, quod ipsi honestati et ordini clericali non minimum derogantes, sacrae constitutioni super hoc editae immemores, in eorum animarum et corporum periculum et scandalum plurimorum, arma deferunt in civitate nostra AEduensi et aliis locis quampluribus nostrae AEduensis dioecesis, et maxime causa nocendi, injurias irrogandi, ex quo jam multa homicidia et mutilationes membrorum exinde fuerint subsecuta, prout rerum experientia docuit evidenter. 
+          Nos igitur vestigiis bonae memoriae domini BARTHOLOMAEI praedecessoris nostri quondam episcopi AEduensis inhaerentes, et malitiis hominum, sive periculis animarum paterna sollicitudine salubriter obviare curantes, ex communi canonicorum consensu justis de causis duximus demandandum. 
+          Quamobrem auctoritate nostra ordinaria inhibemus omnibus et singulis clericis nostrae dioecesis, maxime in sacris ordinibus constitutis, cujuscumque conditionis aut status, et ipsos in generali monemus una monitione peremtoria pro omnibus, ne ipsi voluntarie, et maxime causa nocendi arma de cetero deferant quoquomodo, nisi causa rationabilis id deposcat. 
+          Et tunc etiam non deferant absque nostra licentia speciali. 
+          Quod si secus attentare praesumserint, extunc post spatium unius diei a tempore hujus constitutionis numerandi, ipso facto, excommunicationi se noverint subjacere. 
+        </p>
+        <p xml:id="cl-0145-1-d1e116">
+          (4) Item, cum membra se debeant capiti tamquam digniori merito conformare, querimonia multorum subditorum nostrorum frequentius excitati, qui asserunt quod officiales archidiaconorum nobis subditorum ab excommunicatis eorum auctoritate immoderatas et importabiles emendas levent, et pro suae libito voluntatis in ipsorum subditorum perniciem et jacturam, zelo cupiditatis accensi percipiunt, antequam excommunicati praedicti pro contumacia, pro re confessa seu adjudicata, in dicta permanserint sententia per triginta dierum spatium, prout in nostra curia AEduensi fieri consuevit: a conformitate nostrae curiae AEduensis temere recedendo. 
+          Quamobrem statuimus, et praecipimus, aut etiam inhibemus, ne de cetero ab excommunicatis auctoritate eorum ultra solitum dierum numerum et diutius observatum in nostra curia AEduensi levent seu recipiant officiales praedicti vel eorum sigilliferi emendas ab excommunicatis praedictis. 
+          Quod si secus attentaverint, nos contra ipsos arctius procedemus quod jus erit. 
+        </p>
+        <p xml:id="cl-0145-1-d1e119">
+          (5) Item, praecipimus districte, et sub poena excommunicationis, et in virtute sanctae obedientiae injungimus, ut archipresbyteri, et eorum vices gerentes, et rectores ecclesiarum mandata synodalia nova et vetera edita a praedecessoribus nostris, et specialiter constitutiones conciliorum provincialium Matisconensis et Ansae penes se habeant: et si penes se non habent, quod non credimus, infra mensem a tempore praesentis synodi penes se habeant, et ipsa sibi conscribi faciant indilate: et quod archipresbyteri eisdem rectoribus et eorum vicariis et capellanis aliis quibuscumque in eorum archipresbyteratibus praedicta mandata synodalia et constitutiones in suis convocationibus propter hoc in proximo faciendis legant lingua latina, et exponant, ne in hiis ignorantiam praetendere valeant quoquo modo. Quod si praemissa a nobis injuncta et praecepta adimplere noluerint, et neglexerint, nos ipsos de inobedientia et transgressione mandatorum nostrorum graviter puniemus: eisdem archipresbyteris nihilominus injungentes ut nomina rectorum ecclesiarum in suis ecclesiis non residentium antequam recedant nobis tradant in scriptis. 
+        </p>
+        <p xml:id="cl-0145-1-d1e122">
+          (6) Item, apertio et publicatio testamentorum seu ultimarum voluntatum personarum ecclesiasticarum nostrae dioecesis ad nos spectat de jure et antiqua consuetudine diutius observata in nostro episcopatu AEduensi: 
+          Praecipimus et injungimus rectoribus universis et ceteris personis ecclesiasticis civitatis et dioecesis AEduensis et eorum executoribus seu heredibus ut testamenta seu ultimas voluntates personarum ecclesiasticarum et rectorum dictae dioecesis, cujuscumque conditionis, status, vel auctoritatis existant, decedentium, nobis aut officiali nostro AEduensi deferant et apportent, et praesentari faciant in curia AEduensi, nec de executione et bonis decedentium se aliquatenus intromittant, donec praedicta testamenta dictorum decedentium fuerint, ut praemittitur, publicata, et per nos aut dominum officialem approbata. 
+          Aliter contrarium attendentes graviter puniemus. 
+        </p>
+        <p xml:id="cl-0145-1-d1e125">
+          (7) Item, saepe contingit, quod variis ex causis fiunt convocationes per archipresbyteros, ad quos curati vel eorum loca tenentes venire et comparere, ut tenentur, negligunt, contumaciter contemnunt, cessante impedimento legitimo, notam inobedientiae temere incurrendo. 
+          Quare huic morbo nos congruo remedio occurrentes, statuimus, et injungimus firmiter sub virtute sanctae obedientiae, et sub poena quadraginta solidorum in pios usus secundum nostrum vel episcopi qui pro tempore fuerit arbitrium convertendorum, quod de cetero curati personaliter, si praesentes fuerint; si autem impediti impedimento canonico fuerint, eorum loca tenentes, cum litteris excusationis plenum mandatum habentibus speciale de adimplendo et tenendo quae in convocationibus fient compareant fideliter et devote, quae in ipsis fient convocationibus adimpleant, ut tenentur. 
+        </p>
+        <p xml:id="cl-0145-1-d1e128">
+          (8) Religiosi quicumque exemti, qui novalium aut alias decimas ecclesiis parochialibus debitas, ad eos ex aliqua causa [2] appropriare sibi praesumserint, aut exquisitis fraudibus sive coloribus usurpare, seu qui de animalibus familiarium et pastorum suorum vel aliorum etiam animalium ipsa earum gregibus immiscentium, seu qui de animalibus quae in fraudem ecclesiarum in pluribus locis emunt, emtaque tradunt venditoribus vel aliis ab ipsis tenenda, seu qui de terris quas tradunt aliis excolendas decimam solvi ecclesiis non permiserunt aut prohibuerunt: nisi post requisitionem per eos quorum intererit super hoc eis factam a praemissis destiterint infra mensem, aut si de iis quae usurpare contra praemissa, vel retinere praesumserint, infra duos menses damnificatis ecclesiis emendam non fecerint competentem, sint, et tamdiu maneant ab officiis et administrationibus et beneficiis suis suspensi, donec destiterint et satisfecerint, ut superius est expressum. 
+          Et si religiosi hujusmodi administrationes vel beneficia non habeant, eo casu quo alii subditi suspensi sunt, ipsi sententiam excommunicationis incurrant, nisi satisfaciant nullatenus absolvendi privilegiis non obstantibus quibuscumque. 
+          Ceterum praemissa extendi volumus ad animalia, quae per religiosorum ipsos donatos seu oblatos tenentur, dum tamen illis religiosis eisdem cum effectu donaverint aut obtulerint se et sua.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
